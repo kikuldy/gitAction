@@ -1,0 +1,3 @@
+操作后未add的情况
+
+git checkout 文件名
