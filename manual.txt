@@ -5,3 +5,8 @@ git checkout 文件名
 操作文件后进行了add操作
 
 git checkout commitid 文件名
+
+
+操作文件后进行了add和commit
+
+git checkout commitid 文件名

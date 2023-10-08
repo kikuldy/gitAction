@@ -2,4 +2,3 @@ a.txt
 
 add qian
 befor commit
-commited
