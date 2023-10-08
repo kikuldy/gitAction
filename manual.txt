@@ -1,3 +1,7 @@
 操作后未add的情况,对文件内容的修改，或对文件进行了删除操作等等。
 
 git checkout 文件名
+
+操作文件后进行了add操作
+
+git checkout commitid 文件名
