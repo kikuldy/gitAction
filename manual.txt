@@ -10,3 +10,13 @@ git checkout commitid 文件名
 操作文件后进行了add和commit
 
 git checkout commitid 文件名
+
+
+新建分支
+
+git branch 分支名字
+
+
+分支重命名
+
+git branch -m oldname newnam
